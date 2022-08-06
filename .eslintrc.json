@@ -26,6 +26,7 @@
     "@typescript-eslint/comma-dangle": "off",
     "react/react-in-jsx-scope": "off"
   },
+  "ignorePatterns": ["**/build"],
   "settings": {
     "react": { "version": "detect" }
   }
