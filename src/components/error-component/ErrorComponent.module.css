@@ -1,0 +1,33 @@
+.error__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.error__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem;
+  margin: 0.5rem;
+  border: 2px solid red;
+  color: white;
+  border-radius: 0.5rem;
+}
+
+.error__heading {
+  display: flex;
+  flex-direction: column;
+  color: red;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.error__description {
+  display: flex;
+  flex-direction: column;
+  color: red;
+  text-align: center;
+}
