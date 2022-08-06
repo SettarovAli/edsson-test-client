@@ -1,0 +1,8 @@
+.documents-field {
+  display: flex;
+  gap: 1rem;
+}
+
+.documents-field__input {
+  flex: 1;
+}

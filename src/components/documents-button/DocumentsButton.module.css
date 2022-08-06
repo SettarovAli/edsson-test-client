@@ -1,0 +1,6 @@
+.documents-button {
+  grid-column: 1 / -1;
+  justify-self: center;
+  width: auto;
+  padding: 0.5rem 1.5rem;
+}
